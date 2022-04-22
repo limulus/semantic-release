@@ -1,5 +1,6 @@
 {
-  "name": "semantic-release",
+  "name": "@limulus/semantic-release",
+  "private": false,
   "description": "Automated semver compliant package publishing",
   "version": "0.0.0-development",
   "author": "Stephan Bönnemann <stephan@boennemann.me> (http://boennemann.me)",
